@@ -1,0 +1,46 @@
+﻿*{
+    box-sizing: border-box;
+}
+
+h2{
+    font-weight: 600;
+}
+.body-form{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.message p{
+    color: white;
+    padding: 5px 5px 5px 10px;
+    background-color: #35c55d;
+}
+
+.table-custom{
+padding-right: 10%;
+padding-left: 10%;
+}
+.btn-seed{
+    margin: 10px;
+}
+.header-table-top{
+    display: flex;
+}
+.header-table-left{
+    width: 30%;
+    display: flex;
+}
+.header-table-right{
+    display: flex;
+}
+.keyword{
+    margin: 10px;
+    width: 30%;
+}
+
+.header-table-right .w3-button{
+    margin: 10px;
+    padding: 4px 6px;
+    cursor: pointer;
+}
+
